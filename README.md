@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 3. Run the Project
 ---Fastapi:
         uvicorn api:app --reload
---streamlit:
+streamlit:
        streamlit run app.py
 
 ## Author
