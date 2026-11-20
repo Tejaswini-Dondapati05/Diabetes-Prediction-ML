@@ -31,10 +31,9 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 pip install -r requirements.txt
 ```
 
-### 3. Run the Project
----Fastapi:
+### 3. Run the Fastapi:
         uvicorn api:app --reload
-streamlit:
+### 4. Streamlit run:
        streamlit run app.py
 
 ## Author
