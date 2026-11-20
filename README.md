@@ -32,7 +32,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the Project
-Add the correct execution command based on your project files.
+---Fastapi:
+        uvicorn api:app --reload
+--streamlit:
+       streamlit run app.py
 
 ## Author
 Tejaswini Dondapati
